@@ -83,17 +83,16 @@ Feel free to explore and test the API using a tool like Postman.
 
 ## Outputs
 Retrieve details of all jobs.
-![Screenshot (176)](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/e700c00f-9f82-41b5-af96-fd76fe9c1523)
+![IMG_20231113_130059](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/3ad8e18e-4986-4f02-b884-ebc928812862)
+
 
 Register for a job.
-![Screenshot (177)](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/1e488eea-0116-4f28-9137-7139ef1a9021)
+![IMG_20231113_130225](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/1dd62358-cef7-49e6-a10a-fcf52d3cf7fd)
 
-
-Retrieve a list of jobs joined by a user.
-![Screenshot (178)](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/aa192767-71c2-4f59-ac92-615a73954888)
 
  Retrieve details of a specific job by job role.
- ![Screenshot (179)](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/e36424d7-26f3-4355-859b-470f5fd68c2b)
+![IMG_20231113_130123](https://github.com/Pranav96k/FlaskAPI-for-job-application-system/assets/90552740/b6d7c8de-8d51-4198-ae7b-0ae6a5c3118e)
+
 
 
 
